@@ -1,5 +1,5 @@
 fun hello() {
-    println("hello")
+    println("hello everyone")
 }
 
 fun greetWhite() {
