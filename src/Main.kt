@@ -12,4 +12,5 @@ fun greetBlack() {
 
 fun main() {
     hello()
+    greetBlack()
 }
